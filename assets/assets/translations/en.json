@@ -112,5 +112,8 @@
   "StromTarif": "Dynamic Electricity Tariff",
   "SmartY": "smartY",
   "SmartYMeter": "smartY Meter",
-  "Balkonkraftwerk": "Balcony Solar System"
+  "Balkonkraftwerk": "Balcony Solar System",
+  "Quote" : "Quote",
+  "Consultation.Protocol": "Consultation protocol",
+  "Partner.Bonus": "Partner bonus"
 }
